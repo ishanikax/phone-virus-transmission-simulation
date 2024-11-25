@@ -54,7 +54,7 @@ To showcase simulation, run "VirusSimulation.java"
 
 
 
-Click link below and select raw file to download a video of the simulation in action!
+Click link below and select "raw file" to download a video of the simulation in action!
 
 [Watch the Video Demonstration](PVSDemoVideo.mp4)
 
