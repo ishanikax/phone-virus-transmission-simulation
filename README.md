@@ -52,6 +52,12 @@ All code cam be found under "Phone_Virus_Transmission_Simulation/src/Question_2"
 
 To showcase simulation, run "VirusSimulation.java"
 
-A demo can be shown below! (TBA)
+
+
+Click link below and select raw file to download a video of the simulation in action!
+
+[Watch the Video Demonstration](PVSDemoVideo.mp4)
+
+
 
 
