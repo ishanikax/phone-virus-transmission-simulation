@@ -50,7 +50,7 @@ This simulation provides a compelling visual and interactive experience while de
 <h2>How-To</h2>
 All code cam be found under "Phone_Virus_Transmission_Simulation/src/Question_2"
 
-To showcase simulation, run "VirusSimulation.java"
+To showcase simulation, download the package and run "VirusSimulation.java"
 
 
 
